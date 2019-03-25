@@ -1,4 +1,4 @@
-#ME 599 Project
+# ME 599 Project
 
 Term project, done in teams of two, that uses the concepts from lecture.
 
